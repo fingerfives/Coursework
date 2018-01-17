@@ -1,0 +1,1 @@
+This database was created for a fictional company, Kards Unlimited Inc, and was written in SQL using MSServer 2016. It contains data related to invoices, customer and employee payroll, current stock, and daily earnings. Relationships between different data categories have been set and normalized to the third form. 
